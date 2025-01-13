@@ -1,0 +1,5 @@
+ só falta ajeitar o css e colcoar se já ta acabado a prova, começado ou não iniciado
+ mostrar na tela se o vocabul´rio a regisgtrar ja existe
+
+falta ajeita ocss
+
